@@ -1,0 +1,17 @@
+.carousel-inner {
+  background-color: black;
+}
+
+.sliding_img {
+  opacity: 0.4;
+  width: 100%;
+  height: 35vw;
+}
+
+.sliding_img_text {
+  color: royalblue
+}
+
+.sliding_img_subtext {
+  color: white
+}
