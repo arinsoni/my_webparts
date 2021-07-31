@@ -1,1 +1,1 @@
-hi there
+A full width responsive image in a division.
